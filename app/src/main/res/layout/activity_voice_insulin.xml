@@ -1,0 +1,26 @@
+<!-- res/layout/activity_voice_input.xml -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent" android:layout_height="match_parent"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/tv_voice_result"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Your voice command will appear here"
+        android:textSize="16sp"
+        android:padding="8dp" />
+
+    <Button
+        android:id="@+id/btn_start_voice"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Start Voice Input" />
+
+    <Button
+        android:id="@+id/btn_view_entries"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="View Insulin Entries" />
+
+</LinearLayout>

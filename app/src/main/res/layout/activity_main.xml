@@ -30,4 +30,17 @@
         android:layout_height="wrap_content"
         android:text="Enable Bluetooth  Request Permissions"
         android:layout_marginTop="24dp"/>
+    <Button
+        android:id="@+id/btn_voice_input"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Voice Input for Insulin" />
+
+    <Button
+        android:id="@+id/btn_view_entries"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="View Insulin Entries" />
+
+
 </LinearLayout>
