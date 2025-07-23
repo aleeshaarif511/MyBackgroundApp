@@ -75,6 +75,12 @@ class MainActivity : AppCompatActivity() {
         btnViewEntries.setOnClickListener {
             startActivity(Intent(this, InsulinEntriesActivity::class.java))
         }
+        val btnOpenSTT = findViewById<Button>(R.id.btn_open_stt)
+        btnOpenSTT.setOnClickListener {
+            val intent = Intent(this, STTActivity::class.java)
+            startActivity(intent)
+        }
+
 
         updateUI()
     }
