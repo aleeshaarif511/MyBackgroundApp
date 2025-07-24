@@ -1,4 +1,4 @@
-package np.com.bimalkafle.mybackgroundapp.ui.theme
+package com.example.imscgmandroidapplication.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

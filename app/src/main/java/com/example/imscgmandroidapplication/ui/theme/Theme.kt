@@ -1,4 +1,4 @@
-package np.com.bimalkafle.mybackgroundapp.ui.theme
+package com.example.imscgmandroidapplication.ui.theme
 
 import android.app.Activity
 import android.os.Build
@@ -34,7 +34,7 @@ private val LightColorScheme = lightColorScheme(
 )
 
 @Composable
-fun MyBackgroundAppTheme(
+fun IMSCGMAndroidApplicationTheme(
     darkTheme: Boolean = isSystemInDarkTheme(),
     // Dynamic color is available on Android 12+
     dynamicColor: Boolean = true,
