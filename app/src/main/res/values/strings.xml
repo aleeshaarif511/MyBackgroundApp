@@ -1,8 +1,3 @@
 <resources>
-    <string name="app_name">IMS CGM Android Application</string>
-    <string name="real_time_sensor_monitoring">Real-time Sensor Monitoring</string>
-    <string name="ims_cgm_sensor_1">IMS CGM Sensor 1</string>
-    <string name="ims_cgm_sensor_2">IMS CGM Sensor 2</string>
-    <string name="ims_cgm_sensor_3">IMS CGM Sensor 3</string>
-    <string name="ims_cgm_sensor_4">IMS CGM Sensor 4</string>
+    <string name="app_name">MyBackgroundApp</string>
 </resources>

@@ -1,4 +1,4 @@
-package com.example.imscgmandroidapplication
+package np.com.bimalkafle.mybackgroundapp
 
 import org.junit.Test
 

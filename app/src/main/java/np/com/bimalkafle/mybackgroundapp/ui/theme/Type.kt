@@ -1,4 +1,4 @@
-package com.example.imscgmandroidapplication.ui.theme
+package np.com.bimalkafle.mybackgroundapp.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle
